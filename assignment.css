@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+
+#question {
+    font-size: 64px; margin-bottom: 20px;
+}
+
+input {
+    font-size: 24px; width: 100px; padding: 10px;
+}
+
+button {
+    font-size: 20px; padding: 10px 20px; background: aqua; color: black
+; border: none; border-radius: 5px;
+}
+
+ #result {
+    font-size: 24px; margin-top: 20px; height: 30px;
+}
